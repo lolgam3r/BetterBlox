@@ -1,4 +1,0 @@
-# BetterRobloxTextures
-textures that give the roblox client a more appealing look!
-the folder that the file is in is where it must go in the roblox files, Example: The loading screen files go in: content\textures\loading
-you can access the roblox files by pressing open file location on the shortcut that is on your desktop!
